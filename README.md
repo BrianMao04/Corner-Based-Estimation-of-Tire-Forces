@@ -1,3 +1,7 @@
+# Corner Based Estimation of Tire Forces
+Replication of results from the paper: <br />
+Ehsan Hashemi, Mohammad Pirani, Amir Khajepour, Alireza Kasaiezadeh, Shih-Ken Chen, Bakhtiar Litkouhi, Corner-based estimation of tire forces and vehicle velocities robust to road conditions, Control Engineering Practice, Volume 61, 2017, Pages 28-40, ISSN 0967-0661, https://doi.org/10.1016/j.conengprac.2017.01.009.
+
 # Instructions
 Run Lateral_Force_Estimator.m in MATLAB to generate the figure depicted in the presentation. 
 
